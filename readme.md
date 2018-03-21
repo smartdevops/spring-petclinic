@@ -1,4 +1,5 @@
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsmartdevops%2Fspring-petclinic.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsmartdevops%2Fspring-petclinic?ref=badge_shield)
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
@@ -236,3 +237,7 @@ For pull requests, editor preferences are available in the [editor config](https
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsmartdevops%2Fspring-petclinic.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsmartdevops%2Fspring-petclinic?ref=badge_large)
